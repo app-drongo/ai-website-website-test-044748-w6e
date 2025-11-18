@@ -1,3 +1,5 @@
+"use client"
+
 import Hero from '@/components/sections/home/Hero'
 import Pricing from '@/components/sections/home/Pricing'
 
